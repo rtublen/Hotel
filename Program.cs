@@ -6,7 +6,9 @@ namespace Hotel
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello Hotel!");
+
+            Console.ReadKey();
         }
     }
 }
